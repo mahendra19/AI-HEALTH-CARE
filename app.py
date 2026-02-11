@@ -19,7 +19,7 @@ st.divider()
 
 # Patient dashboard
 if role == "Patient":
-    st.subheader("👤 Patient Dashboard")
+    st.subheader("👤 Patients Dashboard")
     st.write("• View your medical reports")
     st.write("• Understand reports in simple language")
     st.write("• Book appointments")
